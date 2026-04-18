@@ -7,7 +7,7 @@
 const dev = {
   name: "Dawood Ahmad",
   role: "Full Stack Developer",
-  location: "Islamabad, PK 🇵🇰",
+  location: "Vehari, PK 🇵🇰",
   focus: ["React", "Node.js", "Cloud"],
   coffee_per_day: 3
 };
@@ -29,7 +29,7 @@ const dev = {
 - 🔭 Currently building **full-stack web applications** with React & Node.js
 - 🌱 Always learning — exploring **cloud architecture** and **system design**
 - 💬 Ask me about **JavaScript, TypeScript, React, Node.js, MongoDB**
-- 📫 Reach me at: **[your@email.com]**
+- 📫 Reach me at: **[dawoodahmad777777@gmail.com]**
 - ⚡ Fun fact: I debug with console.log and I'm not sorry
 
 ---
@@ -97,10 +97,10 @@ const dev = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawoodahmad018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawoodahmad777)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawoodahmad018)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dawoodahmad.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawoodahmad777777@email.com)
 
 </div>
 
